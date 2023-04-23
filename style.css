@@ -79,6 +79,7 @@ body{
     width: 100%;
     animation: grow 10s linear infinite;
     transform-origin: left;
+    border-radius: 50%;
 }
 
 @keyframes grow {
